@@ -1,7 +1,18 @@
-# Hi there 👋, I'm Ruben
+# hey, i'm ruben 👋
 
-Currently working on **[Davia](https://play.davia.ai)**.
+- building [Davia](https://davia.ai) — the ultimate sandbox RPG
+- we simulate worlds with AI
 
-## Connect with me
+down to meet people working on:
+
+- Three.js
+- game development
+- AI simulation
+- procedural generation
+- mapmaking
+
+reach me:
+
+- [ruben@davia.ai](mailto:ruben@davia.ai)
 - [LinkedIn](https://www.linkedin.com/in/ruben-illouz/)
-- [Twitter](https://x.com/RubenIllouz)
+- [X](https://x.com/RubenIllouz)
