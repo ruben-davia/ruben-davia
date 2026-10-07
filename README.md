@@ -1,4 +1,4 @@
-# I'm Ruben 👋
+# Hey, I'm Ruben 👋
 
 - building [Davia](https://davia.ai) — the ultimate sandbox RPG
 - we simulate worlds with AI
